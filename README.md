@@ -4,9 +4,18 @@
 
 # 🌱 Farmvest — Invest in Agriculture with Confidence
 
+[🌐 Live Demo](https://yuriidano.github.io/farmvest/)
+
 **Farmvest** is a modern, responsive landing page designed to showcase agriculture investment opportunities with an engaging and user-friendly interface.
 
-[🌐 Live Demo](https://yuriidano.github.io/farmvest/)
+## 👨‍💻 About This Project
+This project was fully implemented by me as a responsive landing page for an agricultural investment platform.
+
+The design was based on an existing layout, but I implemented the layout from scratch, including responsive behavior, animations, and section structuring.
+
+The focus was on flawless implementation, clean and semantic HTML markup, BEM-based CSS, and a user-friendly interface on all screen sizes.
+
+This project demonstrates my ability to translate user interface design into responsive web pages.
 
 ---
 
