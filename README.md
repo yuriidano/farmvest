@@ -11,11 +11,11 @@
 ## 👨‍💻 About This Project
 This project was fully implemented by me as a responsive landing page for an agricultural investment platform.
 
-The design was based on an existing layout, but I implemented the layout from scratch, including responsive behavior, animations, and section structuring.
+The design was based on an existing layout, but I built the page from scratch — including all responsive structure, animations, and section composition.
 
 The focus was on flawless implementation, clean and semantic HTML markup, BEM-based CSS, and a user-friendly interface on all screen sizes.
 
-This project demonstrates my ability to translate user interface design into responsive web pages.
+This project demonstrates my ability to convert user interface design into modern, responsive, and ready-to-use landing pages.
 
 ---
 
